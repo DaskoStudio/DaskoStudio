@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38F0C0&center=true&vCenter=true&width=520&lines=Security+tooling;Network+%26+systems;Smart+contract+audits;Go+%C2%B7+Python+%C2%B7+Linux)](https://github.com/DaskoStudio)
 
-[![Mail](https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adamadezekonate0@gmail.com)
+
 
 </div>
 
