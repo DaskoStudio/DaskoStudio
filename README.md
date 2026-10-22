@@ -1,6 +1,6 @@
 <div align="center">
 
-# DASSSKO
+<img src="./assets/banner.png" alt="DaskoStudio — security · networks · tooling" width="100%">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38F0C0&center=true&vCenter=true&width=520&lines=Security+tooling;Network+%26+systems;Smart+contract+audits;Go+%C2%B7+Python+%C2%B7+Linux)](https://github.com/DaskoStudio)
